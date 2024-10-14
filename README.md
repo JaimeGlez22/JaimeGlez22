@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jaime González Delgado</h1>
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/C4E03AQH8Qn-MDQJARQ/profile-displayphoto-shrink_800_800/0/1654416248319?e=1727308800&v=beta&t=WuPTyM8Tih9oDy3NXODV9TwgU7BwB1iM9Vjopk3cYeQ" width="20%">
+  <img src="[https://media.licdn.com/dms/image/C4E03AQH8Qn-MDQJARQ/profile-displayphoto-shrink_800_800/0/1654416248319?e=1727308800&v=beta&t=WuPTyM8Tih9oDy3NXODV9TwgU7BwB1iM9Vjopk3cYeQ](https://avatars.githubusercontent.com/u/64250474?v=4)" width="20%">
 </p>
 
 <h3 align="center">I hold a Bachelor's degree in Mathematics and Computer Science from the Universidad Politécnica de Madrid (UPM) and a Master's degree in Machine Learning and Big Data, also from UPM. I am passionate about technology, with a particular interest in artificial intelligence. Currently, I am focused on enhancing my skills and knowledge in AI, constantly seeking to stay updated with the latest advancements in the field. My academic background and dedication to ongoing learning underscore my commitment to contributing to the world of technology and AI.</h3>
